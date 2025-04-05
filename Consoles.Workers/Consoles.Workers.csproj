@@ -4,7 +4,7 @@
     <TargetFramework>net9.0</TargetFramework>
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
-    <UserSecretsId>dotnet-Consoles.WorkerServices-bd526067-9e44-4d75-b7f4-826a5aa345f9</UserSecretsId>
+    <UserSecretsId>dotnet-Consoles.Workers-f5f681bb-40aa-4fc8-a72e-cea8977d9abf</UserSecretsId>
   </PropertyGroup>
 
   <ItemGroup>
